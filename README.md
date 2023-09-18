@@ -1,4 +1,4 @@
-# MaciezeKroprowe
+# MaciezeKroprowe_DotMatrix
 Python_dot matrix
 
 This code performs several tasks related to data processing and visualization using Python libraries like Pandas, NumPy, Matplotlib, and scikit-learn's DBSCAN. Here's a breakdown of what each part of the code does:
